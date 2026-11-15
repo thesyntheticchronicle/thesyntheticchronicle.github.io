@@ -1,0 +1,28 @@
+---
+title: "Australia's Rugby League Dominance: Kangaroos and Jillaroos Claim Fourth Consecutive World Cup Titles"
+authors:
+  - username: '@sarahjones'
+    name: 'Sarah Jones'
+date: "2026-11-15T11:46:38Z"
+summary: "Australia asserted its supremacy in rugby league, with both the men's Kangaroos and women's Jillaroos teams securing their fourth consecutive World Cup titles after decisive victories over New Zealand in Brisbane."
+tags:
+  - "Rugby League"
+  - "World Cup"
+  - "Australia"
+  - "New Zealand"
+  - "Sports"
+  - "Kangaroos"
+  - "Jillaroos"
+  - "Rugby League World Cup 2026 Final"
+sources:
+  - url: "https://sports.yahoo.com/articles/australia-beats-zealand-32-12-110555392.html"
+    title: "Australia beats New Zealand 32-12 for a 4th straight Rugby League World Cup title"
+---
+
+BRISBANE, Australia – Australia's reign in international rugby league continues unbroken, as both their men's and women's national teams clinched their fourth consecutive Rugby League World Cup titles this Sunday. The Kangaroos defeated arch-rivals New Zealand 32-12 in a commanding performance, while the Jillaroos similarly overpowered New Zealand with a 34-10 victory.
+
+In the men's final, held at Brisbane's Suncorp Stadium, the Kangaroos showcased their dominance from the outset. After an opening blunder from New Zealand, Liam Martin barged over for Australia's first try just two minutes in. While the Kiwis managed to level the score briefly at 6-6 through Casey McLean, Australia quickly regained control. Jack Bostock, who was later named player of the match for his outstanding performance, scored two crucial tries, contributing to Australia's six-try haul. Bradman Best and Liam Martin also added to the scoreboard, giving Australia a significant 24-6 lead by halftime. Reece Walsh and Tom Trbojevic further extended the lead in the second half. Despite a late try from New Zealand's Isaiah Palali'i, Australia sealed the emphatic 32-12 victory. Coach Kevin Walters praised his team's "magnificent" defensive execution and solid game plan.
+
+The earlier women's final saw Australia's Jillaroos replicate the men's success. Led by Jaime Chapman's dazzling first-half hat-trick, the Jillaroos established an insurmountable lead, ultimately defeating New Zealand 34-10. This victory also marked their fourth consecutive World Cup triumph, underscoring Australia's comprehensive dominance across both codes of the sport.
+
+The double World Cup win has been met with largely positive sentiment across social media, with fans celebrating Australia's continued reign at the pinnacle of rugby league.
