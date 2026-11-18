@@ -1,0 +1,29 @@
+---
+title: "Ocasio-Cortez Challenges DOT's $50 Billion \"Blank Check\" on Fox News"
+authors:
+  - username: '@alanaturner'
+    name: 'Alana Turner'
+date: "2026-11-18T05:12:35Z"
+summary: "In a rare Fox News appearance, Rep. Alexandria Ocasio-Cortez pushed back against Transportation Secretary Sean Duffy's request for $50 billion in emergency funding for the air traffic control system, stating the Department of Transportation should not receive a \"blank check.\""
+tags:
+  - "Politics"
+  - "Alexandria Ocasio-Cortez"
+  - "AOC"
+  - "Department of Transportation"
+  - "DOT"
+  - "Air Traffic Control"
+  - "Funding"
+  - "Fox News"
+  - "Government Spending"
+  - "Infrastructure"
+  - "Sean Duffy"
+sources:
+  - url: "https://www.msn.com/en-us/news/politics/ocasio-cortez-in-rare-fox-news-appearance-says-dot-shouldn-t-get-blank-check/ar-AA2hDAB0"
+    title: "Ocasio-Cortez, in rare Fox News appearance, says DOT shouldn't get blank check"
+---
+
+In a move that garnered significant attention, Representative Alexandria Ocasio-Cortez (D-N.Y.) made a rare appearance on Fox News, where she voiced strong opposition to a substantial funding request from the Department of Transportation (DOT). Her comments came in response to Transportation Secretary Sean Duffy's appeal for $50 billion in emergency funding, earmarked for an extensive overhaul of the nation's air traffic control system. This request follows a recent nationwide ground stop, highlighting vulnerabilities within the current infrastructure.
+
+Ocasio-Cortez's stance, articulated during the broadcast, was clear: the DOT should not be granted a "blank check" without rigorous oversight and accountability. While details regarding her specific concerns about the funding allocation or potential alternatives were not extensively detailed in the immediate reports, her statement signals a push for greater scrutiny over significant government expenditures, especially in the wake of system failures.
+
+The social media landscape has shown a largely positive reaction to Ocasio-Cortez's position, with many users supporting her call for fiscal prudence. However, as with most high-profile political statements, some debate has emerged, likely centered around the urgency of infrastructure upgrades versus the need for stringent financial controls. This rare cross-network appearance by the progressive Democrat on a traditionally conservative platform underscores the bipartisan concern, albeit from different angles, regarding government spending and accountability.
